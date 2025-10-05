@@ -5,4 +5,4 @@ function sum (a, b){
 console.log('hello wolrd')
 
 
-const catme = require('cat-me
+const catme = require('cat-me')
